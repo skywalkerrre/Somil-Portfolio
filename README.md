@@ -2,7 +2,6 @@
 
 
 [![Vercel](https://img.shields.io/badge/deploy-vercel-000000?logo=vercel)](https://vercel.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](#)
 
 
