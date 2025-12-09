@@ -62,10 +62,3 @@ Open `index.html` locally or deploy to Vercel for a live URL.
 
 
 ---
-
-
-## Customization
-Edit `index.html` to update name, bio, links, experiences and projects. Replace `assets/banner.png` with a screenshot banner of your site.
-
-
----
