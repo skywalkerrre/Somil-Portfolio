@@ -81,14 +81,6 @@ Edit `index.html` to update name, bio, links, experiences and projects. Replace 
 
 ---
 
-
-## License
-MIT — See `LICENSE`.
-
-
---- FILE: index.html ---
-
-
 <!doctype html>
 <html lang="en">
 <head>
